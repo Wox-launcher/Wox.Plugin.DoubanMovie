@@ -1,0 +1,11 @@
+{
+    "ID":"D2D2C23B084D411DB66FE0C79D6C2A6D",
+    "ActionKeyword":"movie",
+    "Name":"豆瓣电影",
+    "Description":"搜索豆瓣电影评分",
+    "Author":"qianlifeng",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/qianlifeng/Wox.Plugin.DoubanMovie",
+    "ExecuteFileName":"main.py"
+}
